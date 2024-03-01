@@ -1,17 +1,11 @@
 # grocery_store_app
 
-A new Flutter project.
+FLUTTER app
 
-## Getting Started
+![Screenshot_1](https://github.com/DrowLink/grocery_store_app/assets/111207841/e6ea4d9d-87ce-4d63-a5d1-94624b7d5f61) ![Screenshot_2](https://github.com/DrowLink/grocery_store_app/assets/111207841/1662e220-f743-4a93-b5a3-bc2acb0a7569) ![Screenshot_3](https://github.com/DrowLink/grocery_store_app/assets/111207841/6233b681-3448-4df2-bc63-19c6efede2ef)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# grocery_store_app
+
+
